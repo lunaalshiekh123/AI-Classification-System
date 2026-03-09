@@ -1,13 +1,6 @@
-# AI Classification & Intelligent Data Categorization
-
-## Description
-Developed an automated classification model designed to categorize complex datasets for efficient decision-making. I implemented and compared algorithms like Decision Trees and Support Vector Machines (SVM), optimizing model accuracy to ensure reliable predictions.
-
-## Tools used:
-- **Language:** Python
-- **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib.
-
-## Key Features:
-- Exploratory Data Analysis (EDA).
-- Implementation of Classification Algorithms.
-- Model Performance Tuning (Accuracy, Precision, Recall).
+The Human AI Classifier 🤖
+A creative visualization project that compares multiple ML models (KNN, SVM, Decision Tree, Random Forest).
+Features:
+Models: Multi-model comparison on the Iris Dataset.
+Creative Visualization: Instead of traditional bars, model metrics are mapped to human body parts (Head=Precision, Body=Accuracy, etc.).
+Dynamic Feedback: Colors change based on the performance values.
